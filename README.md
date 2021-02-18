@@ -9,4 +9,4 @@ You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
 
 Dataset link :https://github.com/shivambaldha1/Task-3-EDA-Retail/blob/main/SampleSuperstore.csv
 
-Create storyboards. Screen record along with your audio explaining the charts and interpretations.
+
